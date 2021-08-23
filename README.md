@@ -2,7 +2,7 @@
 
 ## Description
 ```
-small library of films in viewJs with use of vueX and store
+small library of films in VueJs with use of vueX and store
 ```
 ## Project setup
 ```
